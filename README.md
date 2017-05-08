@@ -6,7 +6,7 @@ Our Mission
 
 - [x] Basic Analytics Tools
  - Python codes
-  [Jupyter Notebook](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/ipynb/nighttime_light_intensity_analysis.ipynbl "Jupyter Notebook")
+  [Jupyter Notebook](https://github.com/hayashiyus/nighttime_light_intensity_analytics/ipynb/nighttime_light_intensity_analysis.ipynb "Jupyter Notebook")
 
 - [x] Image Processing
  - 3D nighttime light satellite imagery
