@@ -14,4 +14,4 @@ Our Mission
 
 - [x] City Clustering Analytics
  - Clustering Algorithm
-  ![CCA](https://github.com/nowcast/GDP_ImageProcessing/blob/master/threshold.png "Clusterized Imagery")
+  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/threshold.png "Clusterized Imagery")
