@@ -13,5 +13,5 @@ Our Mission
   [3D satellite imagery](http://hayashiyusuke.sub.jp/info/rglmodel.html "3D Imagery")
 
 - [x] City Clustering Analytics
- - Clustering Algorithm
+ - City Clustering Algorithm
   ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/threshold.png "Clusterized Imagery")
