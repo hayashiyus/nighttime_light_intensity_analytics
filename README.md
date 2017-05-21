@@ -16,4 +16,4 @@ Our Mission
  - City Clustering Algorithm
   [CCA](https://www.ihs.nl/fileadmin/ASSETS/ihs/Marketing/Marketing_Projects/gabaix.pdf "CCA")
   ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/threshold.png "Clusterized Imagery")
-  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/cca.png "CCA")
+  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/hot_kanto.png "Kanto_Region")
