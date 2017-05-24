@@ -17,4 +17,3 @@ Our Mission
   [CCA](https://www.ihs.nl/fileadmin/ASSETS/ihs/Marketing/Marketing_Projects/gabaix.pdf "CCA")
   ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/threshold.png "Clusterized Imagery")
   <a href="https://www.nasa.gov/images/content/524257main_tokyo.jpg"><img src="https://www.nasa.gov/images/content/524257main_tokyo.jpg" align="left" width=98% alt="Kanto_Region" ></a>
-  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/hot_kanto.png "Kanto_Region")
