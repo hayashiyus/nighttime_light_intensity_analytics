@@ -15,5 +15,6 @@ Our Mission
 - [x] City Clustering Analytics
  - City Clustering Algorithm
   [CCA](http://www.pnas.org/content/105/48/18702.full.pdf "CCA")
-  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/threshold.png "Clusterized Imagery")
-  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/cca_tokyo_core.png "Tokyo fractal dimension")
+  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/fractal1.png "Fractal Dimension1")
+  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/fractal2.png "Fractal Dimension2")
+  ![CCA](https://github.com/hayashiyus/nighttime_light_intensity_analytics/blob/master/image/fractal3.png "Fractal Dimension3")
